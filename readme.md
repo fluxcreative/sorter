@@ -19,7 +19,7 @@ Created to help sort Downloads directory for quicker review / cleanup. Sorts fil
 2. Run the script:
 
     ```sh
-    python sort_files.py
+    python sort.py
     ```
 
 3. Enter the directory path you want to sort when prompted.
